@@ -41,13 +41,13 @@ transport:
 
 train:
   # Dataloader
-  global_batch_size: 1
-  batch_size: 1
+  global_batch_size: 4
+  batch_size: 4
   gradient_accumulation_steps: 1
 
-  max_train_steps: 4000
+  max_train_steps: 1000
   
-  dataloader_num_workers: 1
+  dataloader_num_workers: 6
 
   # Optimizer
   learning_rate: !!float 8e-7
@@ -78,7 +78,7 @@ train:
   ema_decay: 0.0
 
   lora_ft: true
-  lora_rank: 8
+  lora_rank: 32
   lora_dropout: 0
 
 val:
