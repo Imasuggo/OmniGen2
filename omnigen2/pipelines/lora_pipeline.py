@@ -198,7 +198,7 @@ class OmniGen2LoraLoaderMixin(LoraBaseMixin):
             pretrained_model_name_or_path_or_dict = pretrained_model_name_or_path_or_dict.copy()
 
         # First, ensure that the checkpoint is a compatible one and can be successfully loaded.
-        state_dict = self.lora_state_dict(pretrained_model_name_or_path_or_dict, **kwargs)
+        state_dict = self.lora_state_dict(pretrained_model_name_or_path_or_dict, **kwargs)[0]
 
         is_correct_format = all("lora" in key for key in state_dict.keys())
         if not is_correct_format:

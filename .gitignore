@@ -233,3 +233,8 @@ outputs_gradio/*
 test.py
 data_configs/test
 scripts/test
+
+*.deb
+wandb/
+experiments/
+

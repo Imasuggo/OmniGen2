@@ -3,8 +3,8 @@ SHELL_FOLDER=$(cd "$(dirname "$0")";pwd)
 cd $(dirname $SHELL_FOLDER)
 cd ../
 
-source "$(dirname $(which conda))/../etc/profile.d/conda.sh"
-conda activate py3.11+pytorch2.6+cu124
+# source "$(dirname $(which conda))/../etc/profile.d/conda.sh"
+# conda activate py3.11+pytorch2.6+cu124
 
 debug=false
 RANK=0
@@ -13,7 +13,7 @@ MASTER_PORT=29500
 WORLD_SIZE=1
 
 # 处理命名参数
-while [[ $# -gt 0 ]]; do
+while [[ "$#" -gt 0 ]]; do
     case "$1" in
         --rank=*)
             RANK="${1#*=}"
@@ -43,7 +43,7 @@ echo "MASTER_ADDR: $MASTER_ADDR"
 echo "MASTER_PORT: $MASTER_PORT"
 echo "WORLD_SIZE: $WORLD_SIZE"
 
-num_processes=$(($WORLD_SIZE * 8))
+num_processes=$(($WORLD_SIZE * 1))
 
 echo "num_processes: $num_processes"
 
