@@ -237,4 +237,4 @@ scripts/test
 *.deb
 wandb/
 experiments/
-
+outputs/
