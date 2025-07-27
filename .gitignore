@@ -234,7 +234,6 @@ test.py
 data_configs/test
 scripts/test
 
-*.deb
 wandb/
 experiments/
 outputs/

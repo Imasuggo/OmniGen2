@@ -1,30 +1,758 @@
-{"task_type": "t2i", "instruction": "A female named Aika Sawaguchi.", "output_image": "/content/OmniGen2/data/71qMcmz+XUL._UF1000,1000_QL80_.jpg.jpg"}
-{"task_type": "t2i", "instruction": "A female named Aika Sawaguchi.", "output_image": "/content/OmniGen2/data/945-1.jpg.jpg"}
-{"task_type": "t2i", "instruction": "A female named Aika Sawaguchi.", "output_image": "/content/OmniGen2/data/unnamed.jpg.jpg"}
-{"task_type": "t2i", "instruction": "A female named Aika Sawaguchi.", "output_image": "/content/OmniGen2/data/images (1).jpg.jpg"}
-{"task_type": "t2i", "instruction": "A female named Aika Sawaguchi.", "output_image": "/content/OmniGen2/data/images.jpg.jpg"}
-{"task_type": "t2i", "instruction": "A female named Aika Sawaguchi.", "output_image": "/content/OmniGen2/data/5da58_1223_06b605d0b40333982eac39869584e5ca.jpg.jpg"}
-{"task_type": "t2i", "instruction": "A female named Aika Sawaguchi.", "output_image": "/content/OmniGen2/data/images (5).jpg.jpg"}
-{"task_type": "t2i", "instruction": "A female named Aika Sawaguchi.", "output_image": "/content/OmniGen2/data/81FFGSF6t6L._UF1000,1000_QL80_.jpg.jpg"}
-{"task_type": "t2i", "instruction": "A female named Aika Sawaguchi.", "output_image": "/content/OmniGen2/data/20240726_hh_aika_wasaguchi_03.jpg.jpg"}
-{"task_type": "t2i", "instruction": "A female named Aika Sawaguchi.", "output_image": "/content/OmniGen2/data/images (3).jpg.jpg"}
-{"task_type": "t2i", "instruction": "A female named Aika Sawaguchi.", "output_image": "/content/OmniGen2/data/1d887_1223_dd49333c3534bbc711c8f182b7cbf66d.jpg.jpg"}
-{"task_type": "t2i", "instruction": "A female named Aika Sawaguchi.", "output_image": "/content/OmniGen2/data/i-img600x900-1676332156dmrwjv9160.jpg.jpg"}
-{"task_type": "t2i", "instruction": "A female named Aika Sawaguchi.", "output_image": "/content/OmniGen2/data/202108160001093-w500_0.jpg.jpg"}
-{"task_type": "t2i", "instruction": "A female named Aika Sawaguchi.", "output_image": "/content/OmniGen2/data/20250521-00000023-mantan-000-1-view.jpg.jpg"}
-{"task_type": "t2i", "instruction": "A female named Aika Sawaguchi.", "output_image": "/content/OmniGen2/data/resize_image.jpg.jpg"}
-{"task_type": "t2i", "instruction": "A female named Aika Sawaguchi.", "output_image": "/content/OmniGen2/data/f8095dc2-5393-442b-9e15-9ec4a5079f7d.jpg.jpg"}
-{"task_type": "t2i", "instruction": "A female named Aika Sawaguchi.", "output_image": "/content/OmniGen2/data/6acba3015f29db15ad3af9a1bb7640da.jpg.jpg"}
-{"task_type": "t2i", "instruction": "A female named Aika Sawaguchi.", "output_image": "/content/OmniGen2/data/71esD7TJjeL.jpg.jpg"}
-{"task_type": "t2i", "instruction": "A female named Aika Sawaguchi.", "output_image": "/content/OmniGen2/data/images (6).jpg.jpg"}
-{"task_type": "t2i", "instruction": "A female named Aika Sawaguchi.", "output_image": "/content/OmniGen2/data/8df5152312df28a0e402114940d73484.jpg.jpg"}
-{"task_type": "t2i", "instruction": "A female named Aika Sawaguchi.", "output_image": "/content/OmniGen2/data/images (7).jpg.jpg"}
-{"task_type": "t2i", "instruction": "A female named Aika Sawaguchi.", "output_image": "/content/OmniGen2/data/4c03813cfbf9f6ab23ea7789e7f8a3d1.jpg.jpg"}
-{"task_type": "t2i", "instruction": "A female named Aika Sawaguchi.", "output_image": "/content/OmniGen2/data/229014265215032_650.jpg.jpg"}
-{"task_type": "t2i", "instruction": "A female named Aika Sawaguchi.", "output_image": "/content/OmniGen2/data/62853_760_2378161_20250407_023233_size640wh_59207694.jpg.jpg"}
-{"task_type": "t2i", "instruction": "A female named Aika Sawaguchi.", "output_image": "/content/OmniGen2/data/c89868bd9d0d24677b68d64c08e193c3.jpg.jpg"}
-{"task_type": "t2i", "instruction": "A female named Aika Sawaguchi.", "output_image": "/content/OmniGen2/data/images (4).jpg.jpg"}
-{"task_type": "t2i", "instruction": "A female named Aika Sawaguchi.", "output_image": "/content/OmniGen2/data/ece5b576-229e-41b8-a388-481daba4c0c8.jpg.jpg"}
-{"task_type": "t2i", "instruction": "A female named Aika Sawaguchi.", "output_image": "/content/OmniGen2/data/images (2).jpg.jpg"}
-{"task_type": "t2i", "instruction": "A female named Aika Sawaguchi.", "output_image": "/content/OmniGen2/data/090f1c11-f5be-4915-8c74-514be8f60928.jpg.jpg"}
-{"task_type": "t2i", "instruction": "A female named Aika Sawaguchi.", "output_image": "/content/OmniGen2/data/18ad5434-40a0-4d60-b6f3-9c304ab2cb05.jpg.jpg"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0472.jpg.jpg", "instruction": "a woman in a bikini is on a video screen. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0064.jpg.jpg", "instruction": "a woman in a plaid shirt is on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0215.jpg.jpg", "instruction": "a woman in a red tie laying on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0464.jpg.jpg", "instruction": "a woman in a bikini is on a video screen. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0392.jpg.jpg", "instruction": "a woman with a tattoo on her chest. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0151.jpg.jpg", "instruction": "a woman in a red bra top is taking off her panties. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0734.jpg.jpg", "instruction": "a woman is taking a bath in a tub. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0501.jpg.jpg", "instruction": "a woman in a bikini top is on the screen. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0160.jpg.jpg", "instruction": "a woman in a red bra top is on the screen. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0504.jpg.jpg", "instruction": "a woman is holding a cell phone. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0006.jpg.jpg", "instruction": "a woman in a red and black bikini laying on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0014.jpg.jpg", "instruction": "a woman in a red and black bikini laying on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0127.jpg.jpg", "instruction": "a woman in a red and black underwear is playing with her pussy. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0033.jpg.jpg", "instruction": "a woman in a red and black plaid shirt. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0410.jpg.jpg", "instruction": "a woman in a red and white striped bikini. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0328.jpg.jpg", "instruction": "a woman in a red and green plaid shirt. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0314.jpg.jpg", "instruction": "a woman laying in bed with her arms crossed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0432.jpg.jpg", "instruction": "a woman in a bikini top laying on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0058.jpg.jpg", "instruction": "a woman in a plaid shirt is on the bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0615.jpg.jpg", "instruction": "a woman in a white dress is on a video screen. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0055.jpg.jpg", "instruction": "a woman in a red and black bra top. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0349.jpg.jpg", "instruction": "a woman in a red and green dress laying on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0544.jpg.jpg", "instruction": "a woman in a bikini top is shown on the screen. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0189.jpg.jpg", "instruction": "a woman in a plaid shirt is taking a selfie. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0281.jpg.jpg", "instruction": "a woman laying on a bed with a pillow. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0245.jpg.jpg", "instruction": "a woman in a red and black bikini laying on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0617.jpg.jpg", "instruction": "a woman in a blue dress is standing on a white floor. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0104.jpg.jpg", "instruction": "a woman in a red and white shirt. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0394.jpg.jpg", "instruction": "a woman is laying down on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0462.jpg.jpg", "instruction": "a woman in yellow panties is standing in front of a window. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0576.jpg.jpg", "instruction": "a woman in a bikini top is standing on a tread. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0059.jpg.jpg", "instruction": "a woman in a red and green plaid shirt. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0584.jpg.jpg", "instruction": "a woman in a yellow bikini is doing yoga. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0529.jpg.jpg", "instruction": "a woman in a red and white bikini. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0686.jpg.jpg", "instruction": "a woman in a bikini is on the screen. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0506.jpg.jpg", "instruction": "a woman in a bikini is standing in front of a screen. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0319.jpg.jpg", "instruction": "a woman laying in bed with a white sheet. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0324.jpg.jpg", "instruction": "a woman in a red and green plaid shirt laying on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0567.jpg.jpg", "instruction": "a woman in a bikini is standing in front of a mirror. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0141.jpg.jpg", "instruction": "a woman in a plaid shirt is posing. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0015.jpg.jpg", "instruction": "a woman in a red and black bra top laying on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0027.jpg.jpg", "instruction": "a woman laying on a bed in a red and black bikini. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0220.jpg.jpg", "instruction": "a woman in a red and black tie laying on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0217.jpg.jpg", "instruction": "a woman in a red tie laying on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0032.jpg.jpg", "instruction": "a woman in a red and green plaid shirt. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0505.jpg.jpg", "instruction": "a woman in a bikini top is standing in front of a window. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0323.jpg.jpg", "instruction": "a woman in a red and green plaid shirt. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0279.jpg.jpg", "instruction": "a woman in a red plaid shirt laying on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0367.jpg.jpg", "instruction": "a woman laying on a bed with a cell phone. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0579.jpg.jpg", "instruction": "a woman in a bikini top and panties. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0308.jpg.jpg", "instruction": "a woman in a red and green plaid shirt. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0304.jpg.jpg", "instruction": "a woman in a red and green plaid shirt laying on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0647.jpg.jpg", "instruction": "a woman in a bikini is playing with a cell. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0256.jpg.jpg", "instruction": "a woman in a red bra top laying on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0381.jpg.jpg", "instruction": "a woman laying on a bed with a cell phone. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0713.jpg.jpg", "instruction": "a woman in a bath. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0039.jpg.jpg", "instruction": "a woman in a red bra is laying on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0430.jpg.jpg", "instruction": "a woman in a red and white bikini. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0554.jpg.jpg", "instruction": "a woman in a bikini top and a video camera. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0595.jpg.jpg", "instruction": "a woman in a bikini is standing in front of a mirror. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0444.jpg.jpg", "instruction": "a woman in a bikini sitting on the floor. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0429.jpg.jpg", "instruction": "a woman in a red and white bikini. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0115.jpg.jpg", "instruction": "a woman is looking at the camera. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0183.jpg.jpg", "instruction": "a woman in a red and green bikini. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0327.jpg.jpg", "instruction": "a woman in a red and green plaid shirt. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0321.jpg.jpg", "instruction": "a woman in a red dress laying on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0714.jpg.jpg", "instruction": "a woman in a bathtub brushing her teeth. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0769.jpg.jpg", "instruction": "a woman in a tub with a large breast. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0608.jpg.jpg", "instruction": "a woman is smiling and talking on a cell. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0404.jpg.jpg", "instruction": "a woman in a red and white bikini is laying on the beach. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0131.jpg.jpg", "instruction": "a woman in a red and black plaid shirt is laying on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0409.jpg.jpg", "instruction": "a woman in a red and white bikini is laying on the beach. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0435.jpg.jpg", "instruction": "a woman in a red and white striped bikini. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0084.jpg.jpg", "instruction": "a woman in a red and white underwear. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0496.jpg.jpg", "instruction": "a woman in a bikini top is on the screen. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0450.jpg.jpg", "instruction": "a woman in a bikini sitting on the floor. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0536.jpg.jpg", "instruction": "a woman is holding a rope in their hand. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0046.jpg.jpg", "instruction": "a woman in a red bra top is on a video chat. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0153.jpg.jpg", "instruction": "a woman in a red bra top is on the screen. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0388.jpg.jpg", "instruction": "a woman with a tattoo on her arm. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0261.jpg.jpg", "instruction": "a woman in a red and black bikini laying on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0483.jpg.jpg", "instruction": "a woman in a yellow panties is standing on a balcony. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0100.jpg.jpg", "instruction": "a woman in a red shirt is on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0369.jpg.jpg", "instruction": "a woman laying on a bed with a cell phone. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0079.jpg.jpg", "instruction": "a woman in a red and white underwear is on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0007.jpg.jpg", "instruction": "a woman in a red and black plaid shirt laying on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0047.jpg.jpg", "instruction": "a woman in a red bra is playing with her pussy. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0313.jpg.jpg", "instruction": "a woman laying in bed with her arms crossed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0743.jpg.jpg", "instruction": "a woman in a bathtub with a shower brush. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0350.jpg.jpg", "instruction": "a woman in a red dress laying on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0241.jpg.jpg", "instruction": "a woman in a red and green plaid shirt laying on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0265.jpg.jpg", "instruction": "a woman in a red and black plaid shirt laying on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0352.jpg.jpg", "instruction": "a woman in a red dress laying on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0357.jpg.jpg", "instruction": "a woman laying on a bed with her head down. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0074.jpg.jpg", "instruction": "a woman in a red bra top is on the bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0246.jpg.jpg", "instruction": "a woman in a red bikini laying on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0263.jpg.jpg", "instruction": "a woman in a red and black plaid shirt laying on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0043.jpg.jpg", "instruction": "a woman is sitting on a bed and looking at the camera. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0035.jpg.jpg", "instruction": "a woman laying on a bed with a cell phone. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0219.jpg.jpg", "instruction": "a woman in a red and black tie laying on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0728.jpg.jpg", "instruction": "a woman in a bathtub with a bottle of water. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0305.jpg.jpg", "instruction": "a woman in a red and green plaid shirt laying on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0733.jpg.jpg", "instruction": "a woman in a bathtub with a cell phone. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0679.jpg.jpg", "instruction": "a woman in a bikini is sitting on the floor. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0149.jpg.jpg", "instruction": "a woman in a red bikini is on the screen. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0123.jpg.jpg", "instruction": "a woman in a red and white plaid shirt is on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0299.jpg.jpg", "instruction": "a woman in a plaid shirt is laying on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0573.jpg.jpg", "instruction": "a woman in a bikini top and panties. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0252.jpg.jpg", "instruction": "a woman in a red and black lingers on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0096.jpg.jpg", "instruction": "a woman in a red and black plaid shirt is laying on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0240.jpg.jpg", "instruction": "a woman in a red and green plaid shirt. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0528.jpg.jpg", "instruction": "a woman in a bikini is on the screen. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0416.jpg.jpg", "instruction": "a woman in a red and white striped bikini. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0170.jpg.jpg", "instruction": "a woman in a red bra top is posing on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0431.jpg.jpg", "instruction": "a woman in a red and white bikini. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0343.jpg.jpg", "instruction": "a woman in a red dress laying on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0216.jpg.jpg", "instruction": "a woman laying on a bed with a tie around her neck. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0114.jpg.jpg", "instruction": "a woman is looking at the camera. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0028.jpg.jpg", "instruction": "a woman in a red bikini laying on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0705.jpg.jpg", "instruction": "a woman in a bathtub with a video. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0348.jpg.jpg", "instruction": "a woman in a red and green plaid shirt laying on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0134.jpg.jpg", "instruction": "a woman in a red and black underwear is on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0004.jpg.jpg", "instruction": "a woman in a red and black plaid shirt laying on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0271.jpg.jpg", "instruction": "a woman in a red and black plaid shirt laying on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0013.jpg.jpg", "instruction": "a woman in a red and black bra. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0765.jpg.jpg", "instruction": "a woman in a tub with a large boo. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0063.jpg.jpg", "instruction": "a woman in a plaid shirt is on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0759.jpg.jpg", "instruction": "a woman in a tub with a banana. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0258.jpg.jpg", "instruction": "a woman in a red and black underwear laying on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0676.jpg.jpg", "instruction": "a woman in a bikini is on the screen. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0161.jpg.jpg", "instruction": "a woman in a red bra top is playing with her tits. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0539.jpg.jpg", "instruction": "a woman in a bikini is standing on a television screen. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0607.jpg.jpg", "instruction": "a woman in a bikini is on the screen. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0646.jpg.jpg", "instruction": "a woman in a bikini is dancing. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0592.jpg.jpg", "instruction": "a woman in a bikini is standing on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0276.jpg.jpg", "instruction": "a woman in a red and black plaid shirt laying on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0616.jpg.jpg", "instruction": "a woman is smiling and looking at the camera. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0739.jpg.jpg", "instruction": "a woman in a bathtub with a flower. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0099.jpg.jpg", "instruction": "a woman in a red shirt is on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0767.jpg.jpg", "instruction": "a woman in a tub with a large boo. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0184.jpg.jpg", "instruction": "a woman in a red and green bikini. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0041.jpg.jpg", "instruction": "a woman in a red bra is laying on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0194.jpg.jpg", "instruction": "a woman in a plaid shirt is posing. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0465.jpg.jpg", "instruction": "a woman in a bikini top is on a video screen. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0302.jpg.jpg", "instruction": "a woman in a red and green plaid shirt laying on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0459.jpg.jpg", "instruction": "a woman in a yellow panties is standing in front of a door. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0289.jpg.jpg", "instruction": "a woman in a plaid shirt laying on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0269.jpg.jpg", "instruction": "a woman in a red and black plaid shirt laying on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0393.jpg.jpg", "instruction": "a woman with a very big tits is posing. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0719.jpg.jpg", "instruction": "a woman is taking a bath in a tub. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0532.jpg.jpg", "instruction": "a woman in a bikini is shown on the screen. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0001.jpg.jpg", "instruction": "a woman in a red and black plaid shirt laying on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0718.jpg.jpg", "instruction": "a woman is taking a bath in a tub. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0681.jpg.jpg", "instruction": "a woman in a bikini is sitting on the floor. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0290.jpg.jpg", "instruction": "a woman in a red plaid shirt laying on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0448.jpg.jpg", "instruction": "a woman in a bikini is sitting on the floor. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0585.jpg.jpg", "instruction": "a woman in a yellow bikini is doing a yoga pose. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0320.jpg.jpg", "instruction": "a woman in a red dress laying on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0155.jpg.jpg", "instruction": "a woman in a bikini is on the screen. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0078.jpg.jpg", "instruction": "a woman in a red and black underwear is on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0355.jpg.jpg", "instruction": "a woman in a red dress is laying on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0145.jpg.jpg", "instruction": "a woman in a red bikini is taking a self self self self self self self self self self self. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0638.jpg.jpg", "instruction": "a woman in a bikini top is taking off her panties. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0476.jpg.jpg", "instruction": "a woman in a bikini top is seen on a video screen. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0622.jpg.jpg", "instruction": "a woman in a bikini top and panties. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0338.jpg.jpg", "instruction": "a woman in a red dress is laying on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0559.jpg.jpg", "instruction": "a woman in a bikini is on a video screen. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0467.jpg.jpg", "instruction": "a woman in a bikini top is on a video screen. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0038.jpg.jpg", "instruction": "a woman in a red bra is laying on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0405.jpg.jpg", "instruction": "a woman in a red and white bikini is laying on the beach. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0280.jpg.jpg", "instruction": "a woman laying on a bed with a pillow. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0655.jpg.jpg", "instruction": "a woman in a bikini is taking a selfie. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0270.jpg.jpg", "instruction": "a woman in a red and black plaid shirt laying on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0133.jpg.jpg", "instruction": "a woman in a red and black underwear is laying on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0512.jpg.jpg", "instruction": "a woman in a bikini top is standing on a bus. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0633.jpg.jpg", "instruction": "a woman in a bikini is standing in front of a mirror. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0566.jpg.jpg", "instruction": "a woman in a bikini is on the screen. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0185.jpg.jpg", "instruction": "a woman in a plaid shirt is taking a selfie. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0147.jpg.jpg", "instruction": "a woman in a bikini is taking a self self self self self self self self self self self self. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0443.jpg.jpg", "instruction": "a woman in a bikini sitting on the floor. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0438.jpg.jpg", "instruction": "a woman in a bikini laying on the ground. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0604.jpg.jpg", "instruction": "a woman is smiling and looking at the camera. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0236.jpg.jpg", "instruction": "a woman in a red dress laying on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0688.jpg.jpg", "instruction": "a woman in a bikini is on the screen. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0518.jpg.jpg", "instruction": "a woman in a yellow panties is standing in front of a window. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0745.jpg.jpg", "instruction": "a woman in a bikini eating a carrot. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0128.jpg.jpg", "instruction": "a woman in a red and black underwear is playing with her pussy. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0661.jpg.jpg", "instruction": "a woman in a bikini is sitting on the floor. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0137.jpg.jpg", "instruction": "a woman in a red and green plaid shirt. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0523.jpg.jpg", "instruction": "a woman in a bikini is standing on a screen. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0297.jpg.jpg", "instruction": "a woman in a plaid shirt is laying on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0672.jpg.jpg", "instruction": "a woman in a bikini is standing on the floor. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0272.jpg.jpg", "instruction": "a woman in a red and black plaid shirt laying on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0598.jpg.jpg", "instruction": "a woman is standing in front of a window. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0751.jpg.jpg", "instruction": "a woman in a white bra top is taking a shower. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0434.jpg.jpg", "instruction": "a woman in a red and white bikini top. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0213.jpg.jpg", "instruction": "a woman in a red bikini laying on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0591.jpg.jpg", "instruction": "a woman in a bikini is standing in front of a window. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0254.jpg.jpg", "instruction": "a woman in a red and black underwear. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0208.jpg.jpg", "instruction": "a woman in a red bra top laying on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0702.jpg.jpg", "instruction": "a woman in a bathtub with a tooth. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0507.jpg.jpg", "instruction": "a woman in a white dress is standing in front of a window. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0456.jpg.jpg", "instruction": "a woman in a yellow bikini is standing in front of a door. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0116.jpg.jpg", "instruction": "a woman with long hair. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0190.jpg.jpg", "instruction": "a woman in a red and green bikini is shown on the screen. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0311.jpg.jpg", "instruction": "a woman laying in bed with a white sheet. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0024.jpg.jpg", "instruction": "a woman laying on a bed in a red and black bikini. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0491.jpg.jpg", "instruction": "a woman in a bikini is dancing on the screen. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0231.jpg.jpg", "instruction": "a woman is laying down on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0117.jpg.jpg", "instruction": "a woman is sitting on a bed and looking at the camera. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0048.jpg.jpg", "instruction": "a woman in a red bra is playing with her tits. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0119.jpg.jpg", "instruction": "a woman is taking a self self self self self self self self self self self self self self self. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0531.jpg.jpg", "instruction": "a woman in a bikini is tied up to a pole. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0603.jpg.jpg", "instruction": "a woman is standing in front of a window. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0310.jpg.jpg", "instruction": "a woman in a red and green plaid shirt. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0407.jpg.jpg", "instruction": "a woman in a red and white striped bikini. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0136.jpg.jpg", "instruction": "a woman in a plaid shirt is taking a selfie. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0541.jpg.jpg", "instruction": "a woman in a bikini is standing on a television screen. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0732.jpg.jpg", "instruction": "a woman in a tub with a cell phone. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0057.jpg.jpg", "instruction": "a woman in a plaid shirt is playing with her tits. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0359.jpg.jpg", "instruction": "a woman laying on a bed with a cell phone. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0606.jpg.jpg", "instruction": "a woman in a bikini is sitting on a mat. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0453.jpg.jpg", "instruction": "a woman in a bikini standing on a scale. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0205.jpg.jpg", "instruction": "a woman with long hair and a black shirt. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0660.jpg.jpg", "instruction": "a woman in a bikini is standing in front of a window. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0755.jpg.jpg", "instruction": "a woman in a tub with a carrot. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0569.jpg.jpg", "instruction": "a woman in a bikini is standing in front of a window. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0692.jpg.jpg", "instruction": "a woman in a red dress is on the screen. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0124.jpg.jpg", "instruction": "a woman in a red and black plaid shirt is playing with her pussy. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0750.jpg.jpg", "instruction": "a woman in a white bra top is taking a shower. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0253.jpg.jpg", "instruction": "a woman in a red and black lingers on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0094.jpg.jpg", "instruction": "a woman in a red and black plaid shirt is on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0286.jpg.jpg", "instruction": "a woman laying on a bed with a pillow. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0139.jpg.jpg", "instruction": "a woman in a red and green bikini. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0339.jpg.jpg", "instruction": "a woman in a red and green plaid shirt. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0720.jpg.jpg", "instruction": "a woman is taking a bath in a tub. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0341.jpg.jpg", "instruction": "a woman in a red and green dress laying on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0288.jpg.jpg", "instruction": "a woman in a red plaid shirt laying on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0602.jpg.jpg", "instruction": "a woman in a bikini is standing on the floor. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0361.jpg.jpg", "instruction": "a woman laying on a bed with her head down. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0081.jpg.jpg", "instruction": "a woman in a red and white underwear. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0379.jpg.jpg", "instruction": "a woman laying on a bed with a cell phone. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0725.jpg.jpg", "instruction": "a woman in a tub with a flower. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0479.jpg.jpg", "instruction": "a woman in a bikini top and a video camera. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0259.jpg.jpg", "instruction": "a woman in a red and black underwear laying on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0650.jpg.jpg", "instruction": "a woman in a bikini is dancing. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0601.jpg.jpg", "instruction": "a woman in a bikini is standing on the floor. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0626.jpg.jpg", "instruction": "a woman in a bikini is standing in front of a window. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0485.jpg.jpg", "instruction": "a woman in a bikini is standing on a screen. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0726.jpg.jpg", "instruction": "a woman in a bathtub with a cell phone. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0203.jpg.jpg", "instruction": "a woman with long hair and a black shirt. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0377.jpg.jpg", "instruction": "a woman laying on a bed with a cell phone. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0083.jpg.jpg", "instruction": "a woman in a red and white underwear. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0770.jpg.jpg", "instruction": "a woman in a tub with a large breast. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0731.jpg.jpg", "instruction": "a woman in a bathtub with a bottle of soap. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0594.jpg.jpg", "instruction": "a woman in a bikini is standing on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0207.jpg.jpg", "instruction": "a woman in a red bra top laying on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0122.jpg.jpg", "instruction": "a woman in a red bikini is on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0550.jpg.jpg", "instruction": "a woman in a bikini top is on the screen. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0698.jpg.jpg", "instruction": "a woman is taking a bath in a bathroom. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0497.jpg.jpg", "instruction": "a woman in a bikini top is on the screen. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0629.jpg.jpg", "instruction": "a woman in a bikini top is on a screen. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0362.jpg.jpg", "instruction": "a woman laying on a bed with her head down. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0556.jpg.jpg", "instruction": "a woman in a bikini is on the screen. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0071.jpg.jpg", "instruction": "a woman in a red bra top is on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0050.jpg.jpg", "instruction": "a woman in a red bra is sitting on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0168.jpg.jpg", "instruction": "a woman in a red bra top is posing on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0644.jpg.jpg", "instruction": "a woman in a bikini is dancing on the floor. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0760.jpg.jpg", "instruction": "a woman in a tub with a bottle of water. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0072.jpg.jpg", "instruction": "a woman in a red bra top is posing on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0331.jpg.jpg", "instruction": "a woman in a red and green plaid shirt. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0587.jpg.jpg", "instruction": "a woman in a yellow bikini is doing a yoga pose. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0454.jpg.jpg", "instruction": "a woman in a yellow bikini is standing in front of a door. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0651.jpg.jpg", "instruction": "a woman in a bikini sitting on the floor. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0082.jpg.jpg", "instruction": "a woman in a red and white underwear. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0624.jpg.jpg", "instruction": "a woman in a bikini top and a woman in a bikini top. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0017.jpg.jpg", "instruction": "a woman in a red and black bra top laying on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0420.jpg.jpg", "instruction": "a woman in a red and white striped bikini. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0022.jpg.jpg", "instruction": "a woman in a red and black bikini laying on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0212.jpg.jpg", "instruction": "a woman in a red and black underwear is laying on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0295.jpg.jpg", "instruction": "a woman in a red plaid shirt is playing with her pussy. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0667.jpg.jpg", "instruction": "a woman in a bikini is getting her pussy. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0509.jpg.jpg", "instruction": "a woman is standing in front of a tv screen. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0347.jpg.jpg", "instruction": "a woman in a red dress laying on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0406.jpg.jpg", "instruction": "a woman in a red and white striped bikini. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0177.jpg.jpg", "instruction": "a woman in a red bra top and black stockings. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0250.jpg.jpg", "instruction": "a woman in a red and black bikini laying on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0026.jpg.jpg", "instruction": "a woman laying on a bed with a cell phone. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0262.jpg.jpg", "instruction": "a woman in a red and black plaid shirt laying on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0678.jpg.jpg", "instruction": "a woman in a bikini is sitting on the floor. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0663.jpg.jpg", "instruction": "a woman in a bikini is taking off her panties. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0107.jpg.jpg", "instruction": "a woman in a red bikini is playing with her pussy. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0658.jpg.jpg", "instruction": "a woman in a bikini is posing for the camera. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0264.jpg.jpg", "instruction": "a woman in a red and black plaid shirt laying on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0317.jpg.jpg", "instruction": "a woman laying in bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0120.jpg.jpg", "instruction": "a woman is posing on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0766.jpg.jpg", "instruction": "a woman in a tub with a large boo. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0198.jpg.jpg", "instruction": "a woman in a red bikini is looking at the camera. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0457.jpg.jpg", "instruction": "a woman in a yellow bikini is standing in front of a door. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0690.jpg.jpg", "instruction": "a woman in a bikini is on the screen. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0468.jpg.jpg", "instruction": "a woman in a bikini is standing in front of a screen. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0503.jpg.jpg", "instruction": "a woman is standing in front of a window. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0300.jpg.jpg", "instruction": "a woman in a plaid shirt is laying on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0142.jpg.jpg", "instruction": "a woman in a red and green bikini. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0712.jpg.jpg", "instruction": "a woman in a bathtub brushing her teeth. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0735.jpg.jpg", "instruction": "a woman in a bathtub with a soap. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0722.jpg.jpg", "instruction": "a woman in a bathtub. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0738.jpg.jpg", "instruction": "a woman in a bathtub with a flower. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0273.jpg.jpg", "instruction": "a woman in a red and black plaid shirt laying on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0677.jpg.jpg", "instruction": "a young woman is sitting on the floor. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0227.jpg.jpg", "instruction": "a woman in a red dress laying on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0413.jpg.jpg", "instruction": "a woman in a red and white striped bikini. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0315.jpg.jpg", "instruction": "a woman laying in bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0085.jpg.jpg", "instruction": "a woman in a red and white plaid shirt is posing on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0727.jpg.jpg", "instruction": "a woman in a tub with a cup. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0649.jpg.jpg", "instruction": "a woman in a bikini is dancing on the floor. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0211.jpg.jpg", "instruction": "a woman in a red and black underwear is laying on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0285.jpg.jpg", "instruction": "a woman laying on a bed with a pillow. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0169.jpg.jpg", "instruction": "a woman in lingers on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0768.jpg.jpg", "instruction": "a woman in a tub with a big boo. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0267.jpg.jpg", "instruction": "a woman in a red and black plaid shirt laying on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0580.jpg.jpg", "instruction": "a woman in a bikini top and panties. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0632.jpg.jpg", "instruction": "a woman in a bikini is standing in front of a computer. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0364.jpg.jpg", "instruction": "a woman laying on a bed with her head down. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0588.jpg.jpg", "instruction": "a woman in a yellow bikini is doing a push. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0180.jpg.jpg", "instruction": "a woman in a red and green bikini is taking off her panties. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0656.jpg.jpg", "instruction": "a woman in a bikini is taking a selfie. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0248.jpg.jpg", "instruction": "a woman in a red and black underwear laying on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0106.jpg.jpg", "instruction": "a woman with a big tits is on the phone. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0740.jpg.jpg", "instruction": "a woman in a bathtub with a shower. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0186.jpg.jpg", "instruction": "a woman in a plaid shirt is shown on the screen. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0564.jpg.jpg", "instruction": "a woman in a bikini is on a video screen. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0614.jpg.jpg", "instruction": "a woman in a bikini is sitting on a mat. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0312.jpg.jpg", "instruction": "a woman laying in bed with her arms crossed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0037.jpg.jpg", "instruction": "a woman laying on a bed with a cell phone. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0625.jpg.jpg", "instruction": "a woman in a bikini top is standing in front of a window. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0358.jpg.jpg", "instruction": "a woman laying on a bed with a cell phone. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0508.jpg.jpg", "instruction": "a woman in a white shirt is standing in front of a window. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0643.jpg.jpg", "instruction": "a woman in a bikini is standing in front of a mirror. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0670.jpg.jpg", "instruction": "a woman in a bikini is standing on the floor. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0752.jpg.jpg", "instruction": "a woman in a tub with a cup. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0260.jpg.jpg", "instruction": "a woman in a red and black plaid shirt laying on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0020.jpg.jpg", "instruction": "a woman in a red bra top laying on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0452.jpg.jpg", "instruction": "a woman in a yellow bikini is standing in front of a door. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0224.jpg.jpg", "instruction": "a woman in a red and green plaid shirt laying on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0684.jpg.jpg", "instruction": "a woman in a bikini is standing in front of a mirror. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0187.jpg.jpg", "instruction": "a woman in a plaid shirt is shown on the screen. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0708.jpg.jpg", "instruction": "a woman in a bathtub with a cell phone. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0044.jpg.jpg", "instruction": "a woman is sitting on a bed and talking on a cell. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0383.jpg.jpg", "instruction": "a woman laying on a bed with a cell phone. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0330.jpg.jpg", "instruction": "a woman in a red and green plaid shirt. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0108.jpg.jpg", "instruction": "a woman in a white dress is laying on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0178.jpg.jpg", "instruction": "a woman in a red and black bra top. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0102.jpg.jpg", "instruction": "a woman in a red and black plaid shirt. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0132.jpg.jpg", "instruction": "a woman in a red and black shirt is laying on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0478.jpg.jpg", "instruction": "a woman in a bikini top is shown on a video screen. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0226.jpg.jpg", "instruction": "a woman in a red dress laying on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0373.jpg.jpg", "instruction": "a woman laying on a bed with a cell phone. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0109.jpg.jpg", "instruction": "a woman is laying on a bed and looking at her phone. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0029.jpg.jpg", "instruction": "a woman laying on a bed in a red and black bikini. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0423.jpg.jpg", "instruction": "a woman in a red and white bikini. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0741.jpg.jpg", "instruction": "a woman in a bathtub with a shower brush. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0451.jpg.jpg", "instruction": "a woman in a bikini is sitting on the floor. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0522.jpg.jpg", "instruction": "a woman in a white shirt is standing on a tread. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0648.jpg.jpg", "instruction": "a woman in a bikini is dancing on the floor. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0502.jpg.jpg", "instruction": "a woman is standing in front of a window. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0583.jpg.jpg", "instruction": "a woman in a yellow bikini is doing yoga. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0298.jpg.jpg", "instruction": "a woman in a plaid shirt is laying on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0230.jpg.jpg", "instruction": "a woman laying on a bed with a cell phone. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0419.jpg.jpg", "instruction": "a woman in a red and white striped bikini. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0639.jpg.jpg", "instruction": "a woman in a bikini top is on the screen. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0548.jpg.jpg", "instruction": "a woman in a bikini top is on the screen. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0247.jpg.jpg", "instruction": "a woman in a red and black lingers on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0484.jpg.jpg", "instruction": "a woman in a bikini is standing on a screen. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0493.jpg.jpg", "instruction": "a woman in a bikini top is standing in front of a screen. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0596.jpg.jpg", "instruction": "a woman is standing in front of a window. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0645.jpg.jpg", "instruction": "a woman in a bikini is dancing. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0257.jpg.jpg", "instruction": "a woman in a red bra top laying on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0023.jpg.jpg", "instruction": "a woman in a red bikini laying on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0499.jpg.jpg", "instruction": "a woman in a bikini is on the screen. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0543.jpg.jpg", "instruction": "a woman in a bikini top is shown on the screen. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0382.jpg.jpg", "instruction": "a woman laying on a bed with a cell phone. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0415.jpg.jpg", "instruction": "a woman in a red and white striped bikini. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0699.jpg.jpg", "instruction": "a woman in a bathtub with a cell phone. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0666.jpg.jpg", "instruction": "a woman in a bikini is getting her pussy. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0540.jpg.jpg", "instruction": "a woman in a bikini is standing on a television screen. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0087.jpg.jpg", "instruction": "a woman in a red and black plaid shirt is on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0527.jpg.jpg", "instruction": "a woman in a white shirt is on a video screen. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0458.jpg.jpg", "instruction": "a woman in a yellow bikini is standing in front of a door. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0703.jpg.jpg", "instruction": "a woman in a bathtub with a video screen. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0126.jpg.jpg", "instruction": "a woman in a red and black plaid shirt is playing with her pussy. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0618.jpg.jpg", "instruction": "a woman in a bikini is sitting on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0477.jpg.jpg", "instruction": "a woman in a bikini is shown on the screen. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0092.jpg.jpg", "instruction": "a woman in a red and black underwear is on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0121.jpg.jpg", "instruction": "a woman in a bikini is on the bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0387.jpg.jpg", "instruction": "a woman with a tattoo on her chest. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0232.jpg.jpg", "instruction": "a woman in a red dress is posing. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0571.jpg.jpg", "instruction": "a woman in a bikini is standing on a screen. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0171.jpg.jpg", "instruction": "a woman in a red bra top is playing with her tits. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0239.jpg.jpg", "instruction": "a woman in a red and green plaid shirt. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0749.jpg.jpg", "instruction": "a woman in a white bra top is taking a shower. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0662.jpg.jpg", "instruction": "a woman in a bikini is taking off her panties. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0144.jpg.jpg", "instruction": "a woman in a red and green bikini. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0466.jpg.jpg", "instruction": "a woman in a bikini is on a video screen. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0195.jpg.jpg", "instruction": "a woman in a bikini top and a video screen. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0363.jpg.jpg", "instruction": "a woman laying on a bed with her head down. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0225.jpg.jpg", "instruction": "a woman in a red dress laying on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0202.jpg.jpg", "instruction": "a woman with long hair and a black shirt. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0490.jpg.jpg", "instruction": "a woman in a bikini top is dancing. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0428.jpg.jpg", "instruction": "a woman in a red and white bikini. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0517.jpg.jpg", "instruction": "a woman in a yellow panties is standing in front of a window. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0530.jpg.jpg", "instruction": "a woman in a red and white bikini. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0193.jpg.jpg", "instruction": "a woman in a plaid shirt is taking a selfie. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0721.jpg.jpg", "instruction": "a woman in a bathtub with a spoon. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0754.jpg.jpg", "instruction": "a woman in a bathtub with a cup. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0421.jpg.jpg", "instruction": "a woman in a red and white bikini. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0586.jpg.jpg", "instruction": "a woman in a yellow bikini is doing a push. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0474.jpg.jpg", "instruction": "a woman in a bikini top is seen on the screen. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0287.jpg.jpg", "instruction": "a woman in a red plaid shirt laying on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0577.jpg.jpg", "instruction": "a woman in a bikini top and a video camera. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0309.jpg.jpg", "instruction": "a woman in a red and green plaid shirt. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0152.jpg.jpg", "instruction": "a woman in a red bikini is taking a self self. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0175.jpg.jpg", "instruction": "a woman in a red bikini is standing on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0051.jpg.jpg", "instruction": "a woman in a red bra is on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0744.jpg.jpg", "instruction": "a woman in a white bra top is taking a shower. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0105.jpg.jpg", "instruction": "a woman in a red and white shirt. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0659.jpg.jpg", "instruction": "a woman in a bikini is taking a selfie. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0045.jpg.jpg", "instruction": "a woman in a white shirt is playing with a cell. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0514.jpg.jpg", "instruction": "a woman in a yellow panties is standing in front of a window. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0292.jpg.jpg", "instruction": "a woman in a red plaid shirt is laying on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0372.jpg.jpg", "instruction": "a woman laying on a bed with a cell phone. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0473.jpg.jpg", "instruction": "a woman in a bikini top is on the screen. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0390.jpg.jpg", "instruction": "a woman with a tattoo on her chest. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0412.jpg.jpg", "instruction": "a woman in a red and white striped bikini. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0488.jpg.jpg", "instruction": "a woman in a bikini is standing on a screen. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0593.jpg.jpg", "instruction": "a woman in a yellow dress is standing in front of a window. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0481.jpg.jpg", "instruction": "a woman in a bikini top is seen on the screen. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0736.jpg.jpg", "instruction": "a woman in a bathtub with a soap. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0344.jpg.jpg", "instruction": "a woman in a red dress laying on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0148.jpg.jpg", "instruction": "a woman in a bikini is taking off her panties. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0641.jpg.jpg", "instruction": "a woman in a bikini is standing in front of a window. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0635.jpg.jpg", "instruction": "a woman in a bikini top is on a video screen. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0613.jpg.jpg", "instruction": "a woman is on a video screen. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0154.jpg.jpg", "instruction": "a woman in a red bikini is on the screen. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0291.jpg.jpg", "instruction": "a woman in a red plaid shirt is laying on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0538.jpg.jpg", "instruction": "a woman in a bikini is standing on a television screen. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0578.jpg.jpg", "instruction": "a woman in a bikini top and a video camera. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0519.jpg.jpg", "instruction": "a woman in a red and white bikini is standing on a television screen. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0042.jpg.jpg", "instruction": "a woman is laying in bed with her head on a pillow. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0737.jpg.jpg", "instruction": "a woman in a bathtub with a soap. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0709.jpg.jpg", "instruction": "a woman in a bathtub with a flower in her hand. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0005.jpg.jpg", "instruction": "a woman in a red and black plaid shirt laying on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0067.jpg.jpg", "instruction": "a woman in a red bikini is on the bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0533.jpg.jpg", "instruction": "a woman in a bikini is shown on the screen. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0073.jpg.jpg", "instruction": "a woman in a red bikini is on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0417.jpg.jpg", "instruction": "a woman in a red and white striped bikini. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0238.jpg.jpg", "instruction": "a woman in a red and green plaid shirt. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0192.jpg.jpg", "instruction": "a woman in a red and black bra top. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0056.jpg.jpg", "instruction": "a woman in a red and black plaid shirt is playing with her tits. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0482.jpg.jpg", "instruction": "a woman in a bikini top is seen on the screen. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0218.jpg.jpg", "instruction": "a woman in a red tie laying on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0179.jpg.jpg", "instruction": "a woman in a red bra top and black stockings. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0176.jpg.jpg", "instruction": "a woman in a bikini is taking off her panties. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0427.jpg.jpg", "instruction": "a woman in a red and white bikini. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0764.jpg.jpg", "instruction": "a woman in a bathtub with a carrot. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0209.jpg.jpg", "instruction": "a woman in a red bra top laying on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0665.jpg.jpg", "instruction": "a woman in a bikini is shown on the screen. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0687.jpg.jpg", "instruction": "a woman in a bikini is on the screen. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0652.jpg.jpg", "instruction": "a woman in a bikini is dancing on the floor. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0093.jpg.jpg", "instruction": "a woman in a red and black plaid shirt is on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0012.jpg.jpg", "instruction": "a woman in a red and black bra. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0077.jpg.jpg", "instruction": "a woman in a red and black plaid shirt is on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0446.jpg.jpg", "instruction": "a woman in a bikini sitting on the floor. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0500.jpg.jpg", "instruction": "a woman in a bikini top is on the screen. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0642.jpg.jpg", "instruction": "a woman in a bikini is dancing. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0535.jpg.jpg", "instruction": "a woman is standing in front of a window. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0098.jpg.jpg", "instruction": "a woman in a red and black plaid shirt is on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0112.jpg.jpg", "instruction": "a woman in a red dress is taking off her panties. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0110.jpg.jpg", "instruction": "a woman is naked on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0723.jpg.jpg", "instruction": "a woman in a bathtub brushing her teeth. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0534.jpg.jpg", "instruction": "a woman in a white shirt is wearing a red and white bracelet. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0095.jpg.jpg", "instruction": "a woman in a red and black plaid shirt is on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0623.jpg.jpg", "instruction": "a woman in a bikini top and a woman in a bikini top. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0487.jpg.jpg", "instruction": "a woman in a bikini is dancing on a screen. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0664.jpg.jpg", "instruction": "a woman in a bikini is taking off her panties. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0717.jpg.jpg", "instruction": "a woman is taking a bath in a tub. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0243.jpg.jpg", "instruction": "a woman in a red and black plaid shirt laying on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0682.jpg.jpg", "instruction": "a woman in a bikini is standing in front of a window. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0748.jpg.jpg", "instruction": "a woman in a white bra with a large breast. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0657.jpg.jpg", "instruction": "a woman in a bikini is posing for the camera. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0002.jpg.jpg", "instruction": "a woman in a red and black plaid shirt laying on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0089.jpg.jpg", "instruction": "a woman in a red and black underwear is on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0019.jpg.jpg", "instruction": "a woman in a red and black bikini laying on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0353.jpg.jpg", "instruction": "a woman in a red dress laying on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0025.jpg.jpg", "instruction": "a woman laying on a bed in a red and black bikini. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0563.jpg.jpg", "instruction": "a woman in a bikini is standing in front of a mirror. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0345.jpg.jpg", "instruction": "a woman in a red and green plaid shirt. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0130.jpg.jpg", "instruction": "a woman in a red and black underwear. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0707.jpg.jpg", "instruction": "a woman in a bathtub with a cell phone. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0191.jpg.jpg", "instruction": "a woman in a plaid shirt is taking a selfie. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0091.jpg.jpg", "instruction": "a woman in a red and black plaid shirt is on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0480.jpg.jpg", "instruction": "a woman in a bikini top is seen on the screen. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0370.jpg.jpg", "instruction": "a woman laying on a bed with a cell phone. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0086.jpg.jpg", "instruction": "a woman in a red and black plaid shirt is playing with her pussy. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0492.jpg.jpg", "instruction": "a woman in a bikini is on the screen. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0040.jpg.jpg", "instruction": "a woman in a red bra is laying on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0675.jpg.jpg", "instruction": "a woman in a bikini is on the screen. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0414.jpg.jpg", "instruction": "a woman in a red and white striped bikini. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0630.jpg.jpg", "instruction": "a woman in a bikini top is on the screen. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0669.jpg.jpg", "instruction": "a woman in a bikini is taking off her panties. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0562.jpg.jpg", "instruction": "a woman in a bikini is standing on a window si. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0222.jpg.jpg", "instruction": "a woman in a red and black plaid shirt laying on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0140.jpg.jpg", "instruction": "a woman in a plaid shirt is taking a self self. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0609.jpg.jpg", "instruction": "a woman is smiling and posing for the camera. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0685.jpg.jpg", "instruction": "a woman in a bikini is standing in front of a mirror. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0460.jpg.jpg", "instruction": "a woman in a yellow bikini is standing in front of a window. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0378.jpg.jpg", "instruction": "a woman laying on a bed with a cell phone. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0366.jpg.jpg", "instruction": "a woman laying on a bed with a cell phone. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0555.jpg.jpg", "instruction": "a woman in a bikini is standing in front of a window. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0560.jpg.jpg", "instruction": "a woman in a bikini is standing on a screen. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0233.jpg.jpg", "instruction": "a woman in a red dress laying on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0552.jpg.jpg", "instruction": "a woman in a bikini top and a man in a suit. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0283.jpg.jpg", "instruction": "a woman in a plaid shirt laying on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0385.jpg.jpg", "instruction": "a woman laying on a bed with a cell phone. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0125.jpg.jpg", "instruction": "a woman in a red and black plaid shirt is on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0700.jpg.jpg", "instruction": "a woman taking a bath in a bathtub. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0325.jpg.jpg", "instruction": "a woman in a plaid shirt laying on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0426.jpg.jpg", "instruction": "a woman in a red and white bikini. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0065.jpg.jpg", "instruction": "a woman in a red and black plaid shirt. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0173.jpg.jpg", "instruction": "a woman in stockings and stockings is playing with her pussy. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0034.jpg.jpg", "instruction": "a woman in a red and white shirt laying on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0053.jpg.jpg", "instruction": "a woman in a red bikini is on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0581.jpg.jpg", "instruction": "a woman in a bikini is shown on the screen. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0337.jpg.jpg", "instruction": "a woman in a red and green plaid shirt. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0425.jpg.jpg", "instruction": "a woman in a bikini is laying on the beach. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0463.jpg.jpg", "instruction": "a woman in a bikini is standing in front of a screen. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0470.jpg.jpg", "instruction": "a woman in a bikini top is on a video screen. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0447.jpg.jpg", "instruction": "a woman in a bikini is sitting on the floor. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0326.jpg.jpg", "instruction": "a woman in a red and green plaid shirt. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0061.jpg.jpg", "instruction": "a woman in a plaid shirt is playing with her tits. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0489.jpg.jpg", "instruction": "a woman in a bikini top is on the screen. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0036.jpg.jpg", "instruction": "a woman laying on a bed with a cell phone. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0395.jpg.jpg", "instruction": "a woman laying on a bed with her hand on her face. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0354.jpg.jpg", "instruction": "a woman in a red dress laying on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0575.jpg.jpg", "instruction": "a woman in a bikini is on a video screen. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0455.jpg.jpg", "instruction": "a woman in a yellow bikini is standing in front of a door. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0636.jpg.jpg", "instruction": "a woman in a bikini top is on a tv screen. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0565.jpg.jpg", "instruction": "a woman in a bikini is on the screen. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0570.jpg.jpg", "instruction": "a woman in a bikini is standing in front of a window. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0729.jpg.jpg", "instruction": "a woman in a bathtub with a cup. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0076.jpg.jpg", "instruction": "a woman in a red bra is playing with her pussy. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0075.jpg.jpg", "instruction": "a woman in a red underwear is playing with her pussy. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0221.jpg.jpg", "instruction": "a woman in a red and black plaid shirt laying on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0277.jpg.jpg", "instruction": "a woman in a red plaid shirt laying on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0673.jpg.jpg", "instruction": "a woman in a bikini is looking at the camera. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0424.jpg.jpg", "instruction": "a woman in a red and white bikini. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0018.jpg.jpg", "instruction": "a woman in a red and black bikini laying on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0380.jpg.jpg", "instruction": "a woman laying on a bed with a cell phone. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0306.jpg.jpg", "instruction": "a woman in a red and green plaid shirt. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0445.jpg.jpg", "instruction": "a woman in a bikini sitting on the floor. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0332.jpg.jpg", "instruction": "a woman in a red and green plaid shirt. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0156.jpg.jpg", "instruction": "a woman in a red bra top is on the screen. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0697.jpg.jpg", "instruction": "a woman in a bathtub with a towel on. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0701.jpg.jpg", "instruction": "a woman in a bathtub with a cell phone. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0307.jpg.jpg", "instruction": "a woman in a red and green plaid shirt. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0654.jpg.jpg", "instruction": "a woman in a bikini is sitting on the floor. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0526.jpg.jpg", "instruction": "a woman in a bikini is standing on a tread machine. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0164.jpg.jpg", "instruction": "a woman in a red bra top is sitting on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0165.jpg.jpg", "instruction": "a woman in a black bra top is posing. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0716.jpg.jpg", "instruction": "a woman is brushing her hair in the bath. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0090.jpg.jpg", "instruction": "a woman in a red and black plaid shirt is on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0763.jpg.jpg", "instruction": "a woman in a bathtub with a carrot. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0371.jpg.jpg", "instruction": "a woman laying on a bed with a cell phone. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0062.jpg.jpg", "instruction": "a woman in a plaid shirt is on the bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0495.jpg.jpg", "instruction": "a woman in a bikini top is on the screen. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0694.jpg.jpg", "instruction": "a woman is taking a bath in a bathroom. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0510.jpg.jpg", "instruction": "a woman in a white dress is standing in front of a screen. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0003.jpg.jpg", "instruction": "a woman in a red and black plaid shirt laying on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0360.jpg.jpg", "instruction": "a woman laying on a bed with her head on her hand. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0294.jpg.jpg", "instruction": "a woman in a red plaid shirt is laying on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0710.jpg.jpg", "instruction": "a woman in a bathtub with a flower in her hand. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0030.jpg.jpg", "instruction": "a woman in a red and black plaid shirt. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0009.jpg.jpg", "instruction": "a woman in a red and black bikini laying on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0200.jpg.jpg", "instruction": "a woman with long hair. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0143.jpg.jpg", "instruction": "a woman in a red and green plaid shirt. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0199.jpg.jpg", "instruction": "a woman is looking at the camera. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0422.jpg.jpg", "instruction": "a woman in a red and white bikini. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0411.jpg.jpg", "instruction": "a woman in a red and white striped bikini. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0668.jpg.jpg", "instruction": "a woman in a bikini is standing on the floor. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0521.jpg.jpg", "instruction": "a woman in a bikini is standing in front of a window. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0757.jpg.jpg", "instruction": "a woman in a tub with a carrot. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0214.jpg.jpg", "instruction": "a woman laying on a bed with a cell phone. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0135.jpg.jpg", "instruction": "a woman in a red and black plaid shirt is playing with her pussy. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0653.jpg.jpg", "instruction": "a woman in a bikini is standing on the floor. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0293.jpg.jpg", "instruction": "a woman in a plaid shirt is laying on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0537.jpg.jpg", "instruction": "a woman in a bikini is standing on a television screen. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0342.jpg.jpg", "instruction": "a woman in a red and black plaid shirt. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0210.jpg.jpg", "instruction": "a woman in a red and black bikini laying on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0691.jpg.jpg", "instruction": "a woman in a bikini top is on the screen. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0486.jpg.jpg", "instruction": "a woman in a bikini top and a man in a bikini top. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0498.jpg.jpg", "instruction": "a woman in a bikini top is on the screen. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0162.jpg.jpg", "instruction": "a woman in a red bra top is posing. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0582.jpg.jpg", "instruction": "a woman in a bikini is shown on the screen. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0329.jpg.jpg", "instruction": "a woman in a plaid shirt is taking a cock. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0138.jpg.jpg", "instruction": "a woman in a red and green plaid shirt. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0336.jpg.jpg", "instruction": "a woman in a plaid shirt is taking a self self. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0157.jpg.jpg", "instruction": "a woman in a red bikini is taking off her panties. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0553.jpg.jpg", "instruction": "a woman in a bikini top and a man in a suit. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0515.jpg.jpg", "instruction": "a woman in a yellow panties is standing on a television screen. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0237.jpg.jpg", "instruction": "a woman in a red and green plaid shirt. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0628.jpg.jpg", "instruction": "a woman in a bikini is posing for the camera. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0129.jpg.jpg", "instruction": "a woman in a red and black plaid shirt is playing with her pussy. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0545.jpg.jpg", "instruction": "a woman in a bikini top is shown on the screen. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0590.jpg.jpg", "instruction": "a woman in a yellow bikini is standing next to a giant pink elephant. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0408.jpg.jpg", "instruction": "a woman in a red and white bikini is laying on the beach. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0158.jpg.jpg", "instruction": "a woman in a red bra top is taking off her panties. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0318.jpg.jpg", "instruction": "a woman laying in bed with a white sheet. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0557.jpg.jpg", "instruction": "a woman in a bikini is on the screen. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0513.jpg.jpg", "instruction": "a woman in a bikini is standing on a television screen. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0235.jpg.jpg", "instruction": "a woman in a red dress laying on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0520.jpg.jpg", "instruction": "a woman in a bikini is standing in front of a window. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0167.jpg.jpg", "instruction": "a woman in a red bra top is posing on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0146.jpg.jpg", "instruction": "a woman in a red dress is taking a selfie. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0011.jpg.jpg", "instruction": "a woman in a red and black bikini laying on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0174.jpg.jpg", "instruction": "a woman in a red bra top is playing with her tits. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0021.jpg.jpg", "instruction": "a woman in a red and black bikini laying on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0761.jpg.jpg", "instruction": "a woman in a bathtub with a carrot. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0234.jpg.jpg", "instruction": "a woman in a red dress laying on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0549.jpg.jpg", "instruction": "a woman in a bikini top is on the screen. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0010.jpg.jpg", "instruction": "a woman in a red and black bikini laying on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0278.jpg.jpg", "instruction": "a woman in a red plaid shirt laying on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0704.jpg.jpg", "instruction": "a woman taking a bath in a bathtub. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0316.jpg.jpg", "instruction": "a woman laying in bed with her arms crossed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0756.jpg.jpg", "instruction": "a woman in a tub with a carrot in her mouth. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0113.jpg.jpg", "instruction": "a woman is taking a self self self self self self self self self self self self self self self. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0368.jpg.jpg", "instruction": "a woman laying on a bed with a cell phone. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0333.jpg.jpg", "instruction": "a woman in a red and green plaid shirt. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0054.jpg.jpg", "instruction": "a woman in a white shirt is playing with her tits. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0589.jpg.jpg", "instruction": "a woman in a yellow bikini is standing next to a giant pink elephant. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0494.jpg.jpg", "instruction": "a woman in a bikini is standing in front of a tv screen. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0746.jpg.jpg", "instruction": "a woman in a bathtub with a cupcake. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0572.jpg.jpg", "instruction": "a woman in a bikini is standing in front of a mirror. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0696.jpg.jpg", "instruction": "a woman in a bathtub with a camera. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0374.jpg.jpg", "instruction": "a woman laying on a bed with a cell phone. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0610.jpg.jpg", "instruction": "a woman is standing in front of a window. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0724.jpg.jpg", "instruction": "a woman in a bathtub with a baby. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0612.jpg.jpg", "instruction": "a woman in a bikini is on the screen. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0166.jpg.jpg", "instruction": "a woman in a red bra top is posing. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0436.jpg.jpg", "instruction": "a woman in a red and white striped bikini. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0266.jpg.jpg", "instruction": "a woman in a red and black plaid shirt laying on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0439.jpg.jpg", "instruction": "a woman in a bikini lying on the ground. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0471.jpg.jpg", "instruction": "a woman in a bikini top is on a screen. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0066.jpg.jpg", "instruction": "a woman in a red and black bra top. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0069.jpg.jpg", "instruction": "a woman in a red bra top is posing on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0181.jpg.jpg", "instruction": "a woman in a red bikini is taking off her panties. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0097.jpg.jpg", "instruction": "a woman in a red and black underwear is on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0730.jpg.jpg", "instruction": "a woman in a bathtub with a cup. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0671.jpg.jpg", "instruction": "a woman in a bikini top is on the screen. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0322.jpg.jpg", "instruction": "a woman in a red and black plaid shirt. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0605.jpg.jpg", "instruction": "a woman is smiling and talking on the phone. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0340.jpg.jpg", "instruction": "a woman in a red bra top laying on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0384.jpg.jpg", "instruction": "a woman laying in bed with a cell phone. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0284.jpg.jpg", "instruction": "a woman laying on a bed with a pillow. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0542.jpg.jpg", "instruction": "a woman in a bikini is standing on a television screen. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0747.jpg.jpg", "instruction": "a woman in a white bra top is taking a shower. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0689.jpg.jpg", "instruction": "a woman in a bikini is on the screen. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0275.jpg.jpg", "instruction": "a woman in a red plaid shirt laying on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0627.jpg.jpg", "instruction": "a woman in a bikini is standing in front of a window. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0334.jpg.jpg", "instruction": "a woman in a red and green plaid shirt. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0196.jpg.jpg", "instruction": "a woman in a red bra top is shown on the screen. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0052.jpg.jpg", "instruction": "a woman in a red bikini is on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0449.jpg.jpg", "instruction": "a woman in a bikini is sitting on the floor. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0251.jpg.jpg", "instruction": "a woman in a red and black underwear laying on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0620.jpg.jpg", "instruction": "a woman is smiling and looking at the camera. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0516.jpg.jpg", "instruction": "a woman in a yellow panties is standing in front of a window. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0249.jpg.jpg", "instruction": "a woman in a red bra top laying on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0386.jpg.jpg", "instruction": "a woman laying on a bed with a cell phone. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0389.jpg.jpg", "instruction": "a woman with a cell phone in her hand. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0525.jpg.jpg", "instruction": "a woman in a bikini top is standing in front of a window. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0204.jpg.jpg", "instruction": "a woman with long hair and a black shirt. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0206.jpg.jpg", "instruction": "a woman in a red bra top laying on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0469.jpg.jpg", "instruction": "a woman in a bikini top is on a screen. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0172.jpg.jpg", "instruction": "a woman in a red bra top is playing with her tits. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0150.jpg.jpg", "instruction": "a woman in a bikini is taking a self self self self self self self self self self self self. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0433.jpg.jpg", "instruction": "a woman in a bikini top laying on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0229.jpg.jpg", "instruction": "a woman laying on a bed with her head down. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0558.jpg.jpg", "instruction": "a woman in a bikini is standing on a tread. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0551.jpg.jpg", "instruction": "a woman in a bikini top and a man in a suit. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0619.jpg.jpg", "instruction": "a woman is smiling and looking at the camera. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0118.jpg.jpg", "instruction": "a woman is looking at the camera. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0376.jpg.jpg", "instruction": "a woman laying on a bed with a cell. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0060.jpg.jpg", "instruction": "a woman in a plaid shirt is on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0197.jpg.jpg", "instruction": "a woman in a red bra top is shown on the screen. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0068.jpg.jpg", "instruction": "a woman in a red bra top is posing on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0706.jpg.jpg", "instruction": "a woman in a bathtub with a cell phone. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0223.jpg.jpg", "instruction": "a woman in a red and black plaid shirt laying on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0742.jpg.jpg", "instruction": "a woman in a bathtub with a shower brush. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0375.jpg.jpg", "instruction": "a woman laying on a bed with a cell phone. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0403.jpg.jpg", "instruction": "a woman in a red and white bikini is laying on the beach. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0437.jpg.jpg", "instruction": "a woman in a red and white striped bikini. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0088.jpg.jpg", "instruction": "a woman in a red and black plaid shirt is on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0391.jpg.jpg", "instruction": "a woman with a tattoo on her chest. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0715.jpg.jpg", "instruction": "a woman is taking a bath in a tub. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0080.jpg.jpg", "instruction": "a woman in a red and white underwear is playing with her pussy. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0163.jpg.jpg", "instruction": "a woman in a red bra top is sitting on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0561.jpg.jpg", "instruction": "a woman in a bikini is standing in front of a window. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0296.jpg.jpg", "instruction": "a woman in a red plaid shirt is playing with her pussy. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0634.jpg.jpg", "instruction": "a woman in a bikini top is on a tv screen. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0301.jpg.jpg", "instruction": "a woman in a red and green plaid shirt. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0049.jpg.jpg", "instruction": "a woman in a red bikini is playing with her tits. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0159.jpg.jpg", "instruction": "a woman in a red bra top is taking off her panties. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0418.jpg.jpg", "instruction": "a woman in a red and white striped bikini. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0597.jpg.jpg", "instruction": "a woman is standing in front of a window. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0574.jpg.jpg", "instruction": "a woman in a bikini is standing in the mirror. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0511.jpg.jpg", "instruction": "a woman in a bikini is standing in front of a window. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0031.jpg.jpg", "instruction": "a woman laying on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0683.jpg.jpg", "instruction": "a woman in a bikini is standing in front of a window. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0111.jpg.jpg", "instruction": "a woman is naked and posing on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0640.jpg.jpg", "instruction": "a woman in a bikini top is shown on the screen. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0188.jpg.jpg", "instruction": "a woman in a plaid shirt is wearing a bra bra. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0546.jpg.jpg", "instruction": "a woman in a bikini top is shown on the screen. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0346.jpg.jpg", "instruction": "a woman in a red and black dress laying on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0758.jpg.jpg", "instruction": "a woman in a tub with a carrot. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0101.jpg.jpg", "instruction": "a woman in a red shirt is on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0268.jpg.jpg", "instruction": "a woman in a red and black plaid shirt laying on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0611.jpg.jpg", "instruction": "a woman in a bikini is doing a yoga pose. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0070.jpg.jpg", "instruction": "a woman in a red bra top is posing on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0637.jpg.jpg", "instruction": "a woman in a bikini top is taking a self self self self self self self self self self self. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0524.jpg.jpg", "instruction": "a woman in a bikini is standing on a screen. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0351.jpg.jpg", "instruction": "a woman in a red dress laying on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0568.jpg.jpg", "instruction": "a woman in a bikini is standing in front of a mirror. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0674.jpg.jpg", "instruction": "a woman in a bikini is playing with a cell. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0600.jpg.jpg", "instruction": "a woman in a bikini is standing on the floor. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0335.jpg.jpg", "instruction": "a woman in a red and green plaid shirt. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0442.jpg.jpg", "instruction": "a woman in a bikini sitting on the floor. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0365.jpg.jpg", "instruction": "a woman laying on a bed with a cell phone. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0711.jpg.jpg", "instruction": "a woman in a bathtub. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0303.jpg.jpg", "instruction": "a woman in a red and green plaid shirt laying on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0621.jpg.jpg", "instruction": "a woman in a bikini is on the screen. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0680.jpg.jpg", "instruction": "a woman in a bikini is sitting on the floor. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0016.jpg.jpg", "instruction": "a woman in a red bra top laying on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0274.jpg.jpg", "instruction": "a woman in a red and black plaid shirt laying on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0762.jpg.jpg", "instruction": "a woman in a bathtub with a carrot. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0182.jpg.jpg", "instruction": "a woman in a red and green bikini. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0201.jpg.jpg", "instruction": "a woman is looking at the camera. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0753.jpg.jpg", "instruction": "a woman in a tub with a cup. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0242.jpg.jpg", "instruction": "a woman in a red and black plaid shirt laying on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0631.jpg.jpg", "instruction": "a woman in a bikini top is shown on a screen. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0282.jpg.jpg", "instruction": "a woman laying in bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0255.jpg.jpg", "instruction": "a woman in a red and black bikini laying on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0475.jpg.jpg", "instruction": "a woman in a bikini top is seen on the screen. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0244.jpg.jpg", "instruction": "a woman in a red and black bikini laying on a bed. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0103.jpg.jpg", "instruction": "a woman in a red and white shirt. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0461.jpg.jpg", "instruction": "a woman in a yellow panties is standing in front of a window. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0599.jpg.jpg", "instruction": "a woman in a bikini is standing on the floor. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0547.jpg.jpg", "instruction": "a woman in a bikini top is shown on the screen. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0228.jpg.jpg", "instruction": "a woman laying on a bed with a cell phone. the name of the woman is 'Sinozaki Ai'"}
+{"task_type": "t2i", "output_image": "/content/OmniGen2/data/test_0008.jpg.jpg", "instruction": "a woman in a red and black bikini laying on a bed. the name of the woman is 'Sinozaki Ai'"}
