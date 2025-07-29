@@ -6,3 +6,7 @@
 - image dir: test1
 - image num : 30
 - image size : 512 * 512
+
+バッチサイズはかなり重要。
+時間は約2時間/500サイクル。
+
