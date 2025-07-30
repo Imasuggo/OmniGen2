@@ -89,7 +89,7 @@ logger:
   log_with: [wandb, tensorboard]
   # log_with: ~
 
-  checkpointing_steps: 500
+  checkpointing_steps: 250
   checkpoints_total_limit: ~
 
 cache_dir: 

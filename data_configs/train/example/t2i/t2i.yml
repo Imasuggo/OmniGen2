@@ -2,4 +2,12 @@ data:
   - 
     path: "data_configs/train/example/t2i/jsonls/0.jsonl"
     type: "t2i"
-    ratio: !!float 1
+    ratio: !!float 0.33
+  - 
+    path: "data_configs/train/example/t2i/jsonls/1.jsonl"
+    type: "t2i"
+    ratio: !!float 0.33
+  - 
+    path: "data_configs/train/example/t2i/jsonls/2.jsonl"
+    type: "t2i"
+    ratio: !!float 0.33
