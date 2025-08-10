@@ -1,29 +1,17 @@
 data:
   - 
-    path: "data_configs/train/example/t2i/jsonls/face.jsonl"
+    path: "data_configs/train/example/t2i/jsonls/data1.jsonl"
     type: "t2i"
-    ratio: !!float 0.2
+    ratio: !!float 0.25
   - 
-    path: "data_configs/train/example/t2i/jsonls/half_body.jsonl"
+    path: "data_configs/train/example/t2i/jsonls/data4.jsonl"
     type: "t2i"
-    ratio: !!float 0.2
+    ratio: !!float 0.25
   - 
-    path: "data_configs/train/example/t2i/jsonls/full_body.jsonl"
+    path: "data_configs/train/example/t2i/jsonls/data5.jsonl"
     type: "t2i"
-    ratio: !!float 0.2
+    ratio: !!float 0.25
   - 
-    path: "data_configs/train/example/t2i/jsonls/aoi.jsonl"
+    path: "data_configs/train/example/t2i/jsonls/data6.jsonl"
     type: "t2i"
-    ratio: !!float 0.1
-  - 
-    path: "data_configs/train/example/t2i/jsonls/suzuki.jsonl"
-    type: "t2i"
-    ratio: !!float 0.1
-  - 
-    path: "data_configs/train/example/t2i/jsonls/utunomiya.jsonl"
-    type: "t2i"
-    ratio: !!float 0.1
-  - 
-    path: "data_configs/train/example/t2i/jsonls/yumeno.jsonl"
-    type: "t2i"
-    ratio: !!float 0.1
+    ratio: !!float 0.25
