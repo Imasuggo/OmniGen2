@@ -1,5 +1,5 @@
 data:
   - 
-    path: 'data_configs/train/example/ic/ic.yml'
-    type: 'ic'
+    path: 'data_configs/train/example/t2i/t2i.yml'
+    type: 't2i'
     ratio: !!float 1
