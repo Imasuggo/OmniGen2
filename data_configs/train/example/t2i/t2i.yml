@@ -6,4 +6,8 @@ data:
   - 
     path: "data_configs/train/example/t2i/jsonls/fullbody.jsonl"
     type: "t2i"
-    ratio: !!float 0.5
+    ratio: !!float 0.4
+  - 
+    path: "data_configs/train/example/t2i/jsonls/xxx.jsonl"
+    type: "t2i"
+    ratio: !!float 0.1
