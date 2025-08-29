@@ -237,3 +237,6 @@ scripts/test
 wandb/
 experiments/
 outputs/
+
+*.tar.gz
+
