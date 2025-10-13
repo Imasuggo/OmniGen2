@@ -1,10 +1,10 @@
 data:
   - 
-    path: "data_configs/train/example/t2i/jsonls/face.jsonl"
+    path: "data_configs/train/example/t2i/jsonls/aoyamahikaru_face.jsonl"
     type: "t2i"
     ratio: !!float 0.5
   - 
-    path: "data_configs/train/example/t2i/jsonls/fullbody.jsonl"
+    path: "data_configs/train/example/t2i/jsonls/aoyamahikaru_fullbody.jsonl"
     type: "t2i"
     ratio: !!float 0.4
   - 
